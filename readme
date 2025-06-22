@@ -1,0 +1,14 @@
+pip install -r requirements.txt
+Pastikan file data (misal: data/q&a.json) sudah ada di lokasi yang benar sesuai dengan script Anda.
+Untuk aplikasi audio, pastikan driver audio berfungsi.
+Untuk pydub, pastikan ffmpeg sudah terinstall:
+Mac : brew install ffmpeg
+Windows: Download dan tambahkan ffmpeg ke PATH.
+Jalankan Script :
+- Di terminal/cmd, jalankan: python namascript.py
+Rangkuman Tahapan Singkat :
+Install Python
+Buat virtualenv & aktifkan
+Install requirements
+Pastikan file data/ffmpeg ada
+Jalankan script Python Anda
