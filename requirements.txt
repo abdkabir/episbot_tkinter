@@ -1,0 +1,11 @@
+webrtcvad
+pyaudio
+numpy
+nltk
+rank_bm25
+sentence-transformers
+speechrecognition
+gtts
+playsound
+pydub
+sounddevice
